@@ -1,0 +1,16 @@
+1) Faça um programa que receba dois números e mostre-os:
+    - A soma 
+    - A subtração
+    - A multiplicação
+    - E a divisão entre dois números
+
+2) Faça um programa que receba quatro números e mostre a média entre os quatro.
+
+3) Faça um programa que receba uma temperatura em graus Celsius e retorne ela em Fahrenheit. A fórmula de conversão é:
+    F = (C * 9/5) + 32
+
+4) Faça um programa que receba dois argumentos, uma palavra/frase e uma letra. O programa deve retornar quantas vezes a letra apareceu na palavra/frase.
+
+5) Faça um programa que receba quantos números terá no cálculo da média e retorne a média deles.
+    Exemplo: "Quantos números: 5" --> (n1 + n2 + n3 + n4 + n5)/5
+    Dica: podemos usar estruturas de repetição, tipo for e definir o ranger;
